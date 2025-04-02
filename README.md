@@ -10,5 +10,6 @@ here's the screenshot of my input.txt file
 
 output:
 
-![labrep2](https://github.com/user-attachments/assets/29c2ae4b-fc43-402b-a24d-7f669982c1b8)
+![Screenshot 2025-04-03 022559](https://github.com/user-attachments/assets/a49877b1-7ee4-4b66-880e-897790377534)
+
 
