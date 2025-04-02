@@ -39,5 +39,3 @@ def graph_coloring(filename):
     else:
         print(f"Coloring Not Possible with {k} Colors")
 graph_coloring('input.txt')
-# Example usage:
-# Save the input in a file like 'input.txt' and call graph_coloring('input.txt')
